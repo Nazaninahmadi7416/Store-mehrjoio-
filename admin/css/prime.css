@@ -1,0 +1,243 @@
+.panel-hdr {
+    direction: rtl !important;
+    text-align: center !important;
+}
+
+.panel {
+    direction: rtl !important;
+}
+
+.panel-tag {
+    direction: rtl !important;
+}
+
+.login-view {
+    direction: rtl;
+    text-align: right;
+}
+
+.login-view input {
+    text-align: left;
+    direction: ltr;
+    min-width: 400px;
+    font-size: 17px;
+    margin-bottom: 10px;
+}
+
+.login-lable {
+    font-size: 14px;
+    margin-bottom: 5px;
+}
+
+.login-bg {
+    padding-top: 10%;
+}
+
+.login-view button {
+    margin-top: 35px;
+    font-size: 14px;
+}
+
+.jconfirm {
+    direction: rtl !important;
+    text-align: right !important;
+}
+
+.jconfirm .jconfirm-box div.jconfirm-content-pane .jconfirm-content {
+    overflow: hidden !important;
+}
+.full-loader {
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    background-color: white;
+    z-index: 999999;
+    top: 0;
+    left: 0;
+    opacity: 0.5;
+    display:none;
+    filter: alpha(opacity=50); /* For IE8 and earlier */
+    padding-top: 15%;
+    text-align: center;
+}
+
+.blur-body {
+    filter: blur(2px);
+    -webkit-filter: blur(2px);
+}
+.prime-grid-panel .prime-panel-content {
+    text-align: center !important;
+    font-size: 18px;
+}
+.table-bordered thead th, .table-bordered thead td {
+    text-align: center;
+}
+.prime-table-row:hover {
+    background-color: #efefef;
+}
+
+.prime-table-row {
+    transition: all ease .2s;
+}
+
+.active_nav .nav-link-text {
+    font-weight: bold;
+    /* background-color: red; */
+}
+
+.active_nav {
+    background-color: #38304c8c;
+}
+
+.prime-grid-btn-panel {
+    height: fit-content;
+    padding: 10px;
+    text-align: center;
+    transition: all ease .2s;
+    margin-bottom: 20px;
+    color: white;
+    border-radius: 5px;
+    margin-right: 13px;
+}
+
+.prime-grid-btn-panel:hover {
+    color: white;
+    box-shadow: 0px -3px 0px 1px #bebcc3;
+    margin-top: 5px;
+}
+a.mngmnt-links {
+    background-color: #f1f1f1;
+    margin-left: 10px;
+    color: #888888;
+    padding: 5px;
+    transition: all ease .3s;
+    border-radius: 5px;
+    border: 1px solid #cccccc;
+}
+
+a.mngmnt-links:hover {
+    background-color: #d6d6d6;
+}
+
+.pagination-box-div {
+    text-align: center;
+    padding-top: 20px;
+}
+
+.pagination-box-div a {
+    padding: 5px;
+    background-color: #dedede;
+    margin-left: 2px;
+    margin-right: 2px;
+    border-radius: 5px;
+    padding-left: 10px;
+    padding-right: 10px;
+    color: #777777;
+    /* margin-bottom: -10px; */
+}
+.active_page_number {
+    background-color: #4c4c4c !important;
+    color: white !important;
+}
+.prime-form-lable {
+    /* padding-right: 5px; */
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
+.prime-form-input textarea {
+    width:100%;
+    min-height:150px;
+}
+.file-delete-btn {
+    padding: 10px;
+    margin-bottom: 10px;
+    width: 150px;
+    text-align: center;
+    background-color: #e6e6e6;
+    cursor: pointer;
+    border-radius: 5px;
+    margin-top: 1px;
+}
+
+.file-delete-btn:hover {
+    background-color: #d2d2d2;
+}
+.prime-form-input input, .prime-form-input textarea {
+    min-width: 290px !important;
+    padding: 10px;
+    border: 1px solid grey;
+    /* max-width: 100% !important; */
+    border-radius: 5px;
+}
+
+.prime-form-input {
+    margin-bottom: 5px;
+    margin-top: 5px;
+}
+a.btn.btn-default {
+    padding: 9px;
+}
+.upload_loader img {
+    width: 100px;
+}
+.image_upload_preview {
+    max-width: 150px;
+    display: block;
+    /* margin-bottom: 10px; */
+    border-radius: 5px;
+}
+
+.file_upload_preview a {
+    padding: 10px;
+    text-decoration: none;
+    text-align: right;
+    color: #0061cc;
+    display: block;
+    border: 0;
+}
+input.chosen-search-input {
+    font-family: PrimeSans !important;
+}
+.prime_submit_btn {
+    border-radius: 5px;
+    padding: 5px;
+    width: 150px;
+    transition: all ease .5s;
+    border: 1px solid #49a900;
+    background-color: #49a900;
+    color: white;
+}
+.hidden-element {
+    display: none;
+}
+
+.prime_submit_btn:hover {
+    background-color: #5dc509;
+}
+.submit_div {
+    /* text-align: center; */
+    padding: 20px;
+}
+.Editor-editor {
+    font-size: 17px;
+    font-family: PrimeSans;
+    color: #3c3c3c;
+}
+img.prime_table_inline_img {
+    max-width: 150px;
+    border-radius: 5px;
+}
+.menu_number_amount {
+    background-color: #40365a;
+    margin-right: 10px;
+    padding: 5px;
+    border-radius: 5px;
+    color: #ffc000;
+}
+
+.prime-table-row td {
+    max-width: 285px;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    overflow: hidden;
+}

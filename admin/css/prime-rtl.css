@@ -1,0 +1,39 @@
+body#theme-rtl {
+    direction: rtl !important;
+}
+.nav-menu li a {
+    padding-right: 5px;
+}
+.nav-menu li>ul {
+    /* margin: 0; */
+    padding: 5px !important;
+}
+.nav-menu li a>.nav-link-text {
+    padding-right: 10px !important;
+}
+.subheader {
+    text-align: right !important;
+    direction: rtl;
+}
+.pos-right {
+    left: 0 !important;
+}
+.mr-3, .mx-3 {
+    margin-left: 1rem !important;
+}
+.header-icon:not(.btn)[data-toggle="dropdown"]+.dropdown-menu {
+    left: 2rem !important;
+    right: auto !important;
+}
+.info-card-text {
+    text-align: right;
+    direction: rtl;
+    padding-right: 5px;
+}
+.panel .panel-container .panel-content {
+    direction: rtl;
+    text-align: right;
+}
+.nav-menu li a>[class*='fa-'], .nav-menu li a>.ni {
+    text-align: center !important;
+}

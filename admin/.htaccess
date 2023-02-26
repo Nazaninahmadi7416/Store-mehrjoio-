@@ -1,0 +1,8 @@
+RewriteEngine on
+
+RewriteRule ^login$ admin-login.php
+RewriteRule ^js/prime-apps.js$ js/prime-js-loader.php
+
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule ^(.*)$ loader.php [L]

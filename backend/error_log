@@ -1,0 +1,15 @@
+[07-Feb-2020 14:20:02 Asia/Tehran] PHP Parse error:  syntax error, unexpected '*', expecting function (T_FUNCTION) in /home/izifollo/public_html/app2/backend/application/controllers/portal/Actions.php on line 143
+[07-Feb-2020 14:20:14 Asia/Tehran] PHP Parse error:  syntax error, unexpected '*', expecting function (T_FUNCTION) in /home/izifollo/public_html/app2/backend/application/controllers/portal/Actions.php on line 143
+[07-Feb-2020 14:21:35 Asia/Tehran] PHP Fatal error:  Call to undefined method Loader::labLabsTypeLoader() in /home/izifollo/public_html/app2/backend/application/controllers/portal/Loader.php on line 57
+[07-Feb-2020 14:21:41 Asia/Tehran] PHP Fatal error:  Call to undefined method Loader::labLabsTypeLoader() in /home/izifollo/public_html/app2/backend/application/controllers/portal/Loader.php on line 57
+[07-Feb-2020 14:23:28 Asia/Tehran] PHP Fatal error:  Call to undefined method Loader::labTimeReserveLoader() in /home/izifollo/public_html/app2/backend/application/controllers/portal/Loader.php on line 57
+[07-Feb-2020 14:23:35 Asia/Tehran] PHP Fatal error:  Call to undefined method Loader::labTimeReserveLoader() in /home/izifollo/public_html/app2/backend/application/controllers/portal/Loader.php on line 57
+[15-Feb-2020 15:24:25 Asia/Tehran] PHP Parse error:  syntax error, unexpected '?>', expecting function (T_FUNCTION) in /home/izifollo/public_html/app2/backend/application/controllers/lab/Lab.php on line 311
+[15-Feb-2020 15:26:43 Asia/Tehran] PHP Parse error:  syntax error, unexpected ''smsCode'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/izifollo/public_html/app2/backend/application/controllers/front/UserManager.php on line 197
+[19-Feb-2020 10:44:36 Asia/Tehran] PHP Parse error:  syntax error, unexpected '?>', expecting function (T_FUNCTION) in /home/izifollo/public_html/app2/backend/application/controllers/lab/Lab.php on line 311
+[19-Feb-2020 18:22:47 Asia/Tehran] PHP Fatal error:  Call to undefined method Loader::updateaboutLab() in /home/izifollo/public_html/app2/backend/application/controllers/portal/Loader.php on line 57
+[19-Feb-2020 18:22:57 Asia/Tehran] PHP Fatal error:  Call to undefined method Loader::updateaboutLab() in /home/izifollo/public_html/app2/backend/application/controllers/portal/Loader.php on line 57
+[22-Feb-2020 10:33:28 Asia/Tehran] PHP Parse error:  syntax error, unexpected '$arrayArticle' (T_VARIABLE) in /home/izifollo/public_html/app2/backend/application/controllers/lab/Lab.php on line 142
+[29-Sep-2020 01:22:39 Asia/Tehran] PHP Fatal error:  Cannot redeclare Visha::getPayUrl() in /home/vishasca/public_html/webapi/backend/application/controllers/visha/Visha.php on line 724
+[29-Sep-2020 01:23:18 Asia/Tehran] PHP Fatal error:  Cannot redeclare Visha::getPayUrl() in /home/vishasca/public_html/webapi/backend/application/controllers/visha/Visha.php on line 724
+[29-Sep-2020 01:24:32 Asia/Tehran] PHP Fatal error:  Cannot redeclare Visha::getPayUrl() in /home/vishasca/public_html/webapi/backend/application/controllers/visha/Visha.php on line 724
